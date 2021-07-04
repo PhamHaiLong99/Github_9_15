@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 add some tesxt in 8_22
 hehead
 them 1 ti o day 
-
+This is chapter 4 on master branch.
+>>>>>>> b8bfd1b23472552cd8ba37f703fe080cc0e38ec3

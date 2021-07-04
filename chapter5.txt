@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this is chap ter 5 main.
+=======
+
+day la chapter 5 8_22
+>>>>>>> e08fae7 (day la chapter 5 8_22)
